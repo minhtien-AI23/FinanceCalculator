@@ -1,0 +1,19 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb-checkpoint
+.vscode/
+.idea/
+
+# Python specific files
+*.pyc
+__pycache__/
+env/
+venv/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
